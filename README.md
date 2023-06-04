@@ -1,4 +1,4 @@
-Ticket reservation App
+# Ticket reservation App
 
 This is a full-stack web application built using React and Spring Boot.
 
